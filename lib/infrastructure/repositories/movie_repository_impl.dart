@@ -1,6 +1,6 @@
-import 'package:cinemapedia_matricula/domain/datasources/movies_datasource.dart';
-import 'package:cinemapedia_matricula/domain/entities/movie.dart';
-import 'package:cinemapedia_matricula/domain/repositories/movies_repository.dart';
+import 'package:cinemapedia_220031/domain/datasources/movies_datasource.dart';
+import 'package:cinemapedia_220031/domain/entities/movie.dart';
+import 'package:cinemapedia_220031/domain/repositories/movies_repository.dart';
 
 
 class MovieRepositoryImpl extends MoviesRepository {

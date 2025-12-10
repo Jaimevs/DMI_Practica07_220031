@@ -1,12 +1,12 @@
-import 'package:cinemapedia_matricula/infrastructure/models/moviedb/movie_details.dart';
+import 'package:cinemapedia_220031/infrastructure/models/moviedb/movie_details.dart';
 import 'package:dio/dio.dart';
 
-import 'package:cinemapedia_matricula/config/constants/environment.dart';
-import 'package:cinemapedia_matricula/domain/datasources/movies_datasource.dart';
+import 'package:cinemapedia_220031/config/constants/environment.dart';
+import 'package:cinemapedia_220031/domain/datasources/movies_datasource.dart';
 
-import 'package:cinemapedia_matricula/infrastructure/mappers/movie_mapper.dart';
-import 'package:cinemapedia_matricula/infrastructure/models/moviedb/moviedb_response.dart';
-import 'package:cinemapedia_matricula/domain/entities/movie.dart';
+import 'package:cinemapedia_220031/infrastructure/mappers/movie_mapper.dart';
+import 'package:cinemapedia_220031/infrastructure/models/moviedb/moviedb_response.dart';
+import 'package:cinemapedia_220031/domain/entities/movie.dart';
 
 
 class MoviedbDatasource extends MoviesDatasource {

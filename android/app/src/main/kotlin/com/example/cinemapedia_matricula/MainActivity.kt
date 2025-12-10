@@ -1,4 +1,4 @@
-package com.example.cinemapedia_matricula
+package com.example.cinemapedia_220031
 
 import io.flutter.embedding.android.FlutterActivity
 

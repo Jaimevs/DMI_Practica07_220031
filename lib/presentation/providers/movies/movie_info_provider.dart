@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:cinemapedia_matricula/domain/entities/movie.dart';
-import 'package:cinemapedia_matricula/presentation/providers/providers.dart';
+import 'package:cinemapedia_220031/domain/entities/movie.dart';
+import 'package:cinemapedia_220031/presentation/providers/providers.dart';
 
 // 🔹 Provider principal
 final movieInfoProvider = NotifierProvider<MovieMapNotifier, Map<String, Movie>>(MovieMapNotifier.new);
