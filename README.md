@@ -12,7 +12,7 @@
   
   **Desarrollador:** Jaime Vázquez Santiago  
   **Matrícula:** 220031  
-  **Fecha:** Diciembre 2024  
+  **Fecha:** Diciembre 2025  
   **Versión:** 2.0
 </div>
 
